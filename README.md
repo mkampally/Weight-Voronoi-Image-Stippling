@@ -38,7 +38,7 @@ To run the application:
 
 1. Run the Streamlit app:
     ```bash
-    streamlit run main.py
+    streamlit run app.py
     ```
 
 2. This will start a local server, and you can access the application in your web browser at:
